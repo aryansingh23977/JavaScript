@@ -1,0 +1,346 @@
+Store your name in a variable and print it.
+
+Take two numbers and print:
+sum
+difference
+multiplication
+division
+
+4
+Swap two numbers.
+
+5
+Check whether a number is even or odd.
+6
+
+Check whether a number is positive, negative, or zero.
+
+7
+Find the largest among 3 numbers.
+
+8
+Check whether a year is leap year or not.
+
+Level 2 — Loops
+
+9
+Print numbers from 1 to 100.
+
+10
+Print even numbers from 1 to 100.
+
+11
+Find sum of first n natural numbers.
+
+12
+Find factorial of a number.
+
+13
+Print multiplication table of a number.
+
+14
+Reverse a number.
+Example:
+1234 → 4321
+
+15
+Check palindrome number.
+
+16
+Count digits in a number.
+
+17
+Find sum of digits.
+
+18
+Check Armstrong number.
+
+Level 3 — Functions
+
+19
+Create a function to add two numbers.
+
+20
+Create a function to check prime number.
+
+21
+Create a function to calculate power.
+
+22
+Write recursive factorial function.
+
+23
+Write recursive Fibonacci function.
+
+24
+Write recursive GCD/HCF function.
+
+Level 4 — Arrays (VERY IMPORTANT)
+
+25
+Create an array and print all elements.
+
+26
+Find largest element in array.
+
+27
+Find smallest element in array.
+
+28
+Find sum of array elements.
+
+29
+Reverse an array.
+
+30
+Count even and odd numbers in array.
+
+31
+Search element in array.
+
+32
+Sort array ascending.
+
+33
+Remove duplicates from array.
+
+34
+Merge two arrays.
+
+Level 5 — Strings
+
+35
+Count vowels in a string.
+
+36
+Reverse a string.
+
+37
+Check palindrome string.
+
+38
+Count frequency of characters.
+
+39
+Find longest word in sentence.
+
+40
+Convert first letter of every word to uppercase.
+
+Level 6 — JavaScript-Specific Basics
+
+***NOW the real JavaScript begins.***
+
+Objects
+
+41
+Create an object representing a student.
+
+42
+Print all keys of object.
+
+43
+Print all values of object.
+
+44
+Add new property to object.
+
+45
+Delete property from object.
+
+Array Methods (VERY IMPORTANT)
+
+46 — map()
+Double all numbers in array.
+Example:
+[1,2,3] → [2,4,6]
+
+47 — filter()
+Return only even numbers.
+
+48 — reduce()
+Find sum of array using reduce().
+
+49 — find()
+Find first number greater than 10.
+
+50 — some()
+Check whether at least one element is negative.
+
+51 — every()
+Check whether all elements are positive.
+
+52
+Sort array of objects by age.
+
+Functions Advanced
+
+53
+Store function inside variable.
+
+54
+Pass function as argument.
+
+55
+Return function from another function.
+
+56
+Create arrow function.
+
+57
+Use callback function.
+
+DOM Basics (SUPER IMPORTANT)
+
+Create a simple HTML page first.
+
+58
+Change text of paragraph on button click.
+
+59
+Change background color on button click.
+
+60
+Create counter app:
+Increment
+Decrement
+Reset
+
+61
+Show current time on webpage.
+
+62
+Create simple calculator.
+
+63
+Create to-do list.
+
+64
+Hide/show password.
+
+65
+Character counter for textarea.
+
+66
+Dark mode toggle.
+
+Events
+
+67
+Detect key press.
+
+68
+Detect mouse hover.
+
+69
+Display mouse coordinates.
+
+70
+Prevent form submission.
+
+Async JavaScript
+
+71
+Use setTimeout().
+
+72
+Use setInterval().
+
+73
+Create Promise manually.
+
+74
+Use .then() and .catch().
+
+75
+Convert Promise code into async/await.
+
+76
+Fetch data from public API.
+Use:
+JSONPlaceholder API
+
+77
+Display fetched users on webpage.
+
+Mini Projects (MOST IMPORTANT)
+
+78
+Calculator
+
+79
+To-do app
+
+80
+Weather app
+
+81
+Digital clock
+
+82
+Stopwatch
+
+83
+Quiz app
+
+84
+Expense tracker
+
+85
+GitHub profile finder
+
+MUST-LEARN JavaScript Concepts
+
+86
+Closures
+
+87
+Hoisting
+
+88
+Scope:
+global
+block
+function
+
+89
+Difference:
+var
+let
+const
+
+90
+Difference:
+
+==
+===
+91
+Truthy vs Falsy values
+
+92
+Destructuring
+
+93
+Spread operator
+
+94
+Rest operator
+
+95
+Template literals
+Final Strong Beginner Projects
+
+96
+Notes app.
+
+97
+Movie search app.
+
+98
+Chat UI clone.
+
+99
+Music player.
+
+100
+Mini e-commerce frontend.
