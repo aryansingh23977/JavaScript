@@ -1,0 +1,8 @@
+Using HTML Elements
+1) Paragraph- <p> This is a paragraph </p>    
+              Contains Content and element(<p> and </p>)
+
+2) Heading-<h1> Large heading</h1>
+            <b>Used for bold word </b>
+
+3) Image
