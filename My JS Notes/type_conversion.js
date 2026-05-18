@@ -1,33 +1,68 @@
-//let score = 33;
-// console.log(typeof(score))
-// console.log(typeof score);
+let score = "hitesh"
 
-//Output is Number for both.
+//console.log(typeof score);
+//console.log(typeof(score));
 
-// In another condition if we take a non number thing change its type to number, we see JS changes its type to number.But if we check its real type it is still a NaN(Not a number).This shows we can change the type to a number even if it is not a number. Lets see,
-let score = "33abc"
-// console.log(typeof(score)) //string
-// console.log(typeof score) //string
-let aryan=Number(score) 
-//console.log(typeof aryan) //number
-//console.log(aryan) //NaN
+let valueInNumber = Number(score)
+//console.log(typeof valueInNumber);
+//console.log(valueInNumber);
 
 
-//*******************OPERATIONS***********************/
+// "33" => 33
+// "33abc" => NaN
+//  true => 1; false => 0
 
-let value=5
-let negValue=-value
+let isLoggedIn = "hitesh"
+
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+//  console.log(booleanIsLoggedIn);
+
+// 1 => true; 0 => false
+// "" => false
+// "hitesh" => true
+
+let someNumber = 33
+
+let stringNumber = String(someNumber)
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+// *********************** Operations ***********************
+
+let value = 3
+let negValue = -value
 // console.log(negValue);
 
-// console.log(2+2)
-// console.log(2-2)
-// console.log(2/2) //divide
-// console.log(2*2) //multiply
-// console.log(2**3) //power
-// console.log(2%3) //Remainder
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(2/3);
+// console.log(2%3);
 
-//Joining strings
-let str1="Aryan"
-let str2=" Singh"
-let str3=str1+str2;
-console.log(str3)
+let str1 = "hello"
+let str2 = " hitesh"
+
+let str3 = str1 + str2
+// console.log(str3);
+
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
+
+// console.log( (3 + 4) * 5 % 3);
+
+// console.log(+true);
+// console.log(+"");
+
+let num1, num2, num3
+
+num1 = num2 = num3 = 2 + 2
+
+let gameCounter = 100
+++gameCounter;
+console.log(gameCounter);
+
+// link to study
+// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
